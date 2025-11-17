@@ -1,4 +1,4 @@
-# Reflection --- AI-Driven Development & the Future of Human--AI Collaboration (Roman Urdu)
+# Reflection --- AI-Driven Development & the Future of Human--AI Collaboration
 
 Mere liye AI-Driven Development ka matlab ek naye daur mein qadam rakhna
 hai jahan developers ab akelay kaam nahi karte hum AI ke saath ek
