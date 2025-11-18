@@ -42,7 +42,7 @@ and should return clear error messages for each type of invalid input.
 ```
 
 ### CLI Screenshot
-![gemini-cli-screenshot](image.png)
+![gemini-cli-screenshot](./image.png)
 
 ---
 
