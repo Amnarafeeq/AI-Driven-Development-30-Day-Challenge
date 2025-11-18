@@ -8,7 +8,7 @@
 AI agents boring aur repeat hone wale setup steps ko bohot fast handle kar lete hain. Is se developer ka time bach jata hai aur wo zyada architecture, planning aur system design par focus kar sakta hai. Is tarah developer dheere dheere sirf code writer nahi, balkay ek sochne wala system architect ban jata hai.
 
 **2. Nine Pillars developer ko M-Shaped Developer kaise banate hain?**  
-Nine Pillars developer ko tools, specs, agents aur testing ke saath ek complete flow sikha dete hain. Is process se developer aik se zyada domains (jaise coding, design, automation, agent orchestration) me depth banata hai. Yehi cheez usay M-Shaped developer banati hai — yani multiple strong skills combined.
+Nine Pillars developer ko tools, specs, agents aur testing ke saath ek complete flow sikha dete hain. Is process se developer aik se zyada domains (jaise coding, design, automation, agent orchestration) me depth banata hai. Yehi cheez usay M-Shaped developer banati hai yani multiple strong skills combined.
 
 ---
 
